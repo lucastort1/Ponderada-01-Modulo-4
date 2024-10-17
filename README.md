@@ -15,7 +15,9 @@ void loop() {
   delay(1000);                      // wait for a second
 }
 ```
-Video de funcionamento disponível no repositório
+<img title="Print Código" src="/Captura de tela 2024-10-16 140053.png">
+
+Vídeo de funcionamento disponível no repositório
 
 ## Parte 2
 ```
